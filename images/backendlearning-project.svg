@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="backendGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#backendGrad)"/>
+  <rect x="30" y="40" width="340" height="220" stroke="#ff6b6b" stroke-width="3" fill="none" rx="10"/>
+  <text x="200" y="100" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ff6b6b" text-anchor="middle">Backend Learning</text>
+  <text x="200" y="145" font-family="Arial, sans-serif" font-size="18" fill="#e6e6e6" text-anchor="middle">Learning Repository</text>
+  <text x="200" y="175" font-family="Arial, sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">JavaScript • API Development</text>
+  <text x="200" y="205" font-family="Arial, sans-serif" font-size="12" fill="#b3b3b3" text-anchor="middle">API patterns and best practices</text>
+</svg>
